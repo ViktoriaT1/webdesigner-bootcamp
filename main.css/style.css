@@ -1,0 +1,43 @@
+
+body::before {
+
+display: block;
+content: '';
+height: 50px;
+
+
+
+}
+
+
+
+.heading {
+  color: rgb(130, 100, 219);
+}
+
+.btn-purple {
+  background: rgb(130, 100, 219);
+}
+
+.mycolor {
+  background-color: rgb(199, 192, 192);
+}
+
+
+.mycolor2 {
+
+background-color: rgb(130, 100, 219);
+
+
+}
+
+@media(min-width: 768px) {
+
+.news-input {
+
+width: 50%;
+
+}
+
+
+}
